@@ -21,6 +21,20 @@ object: what is an object ?
 
 properties cup colour, chai sweetness
 
-
 methods actions -> stir,pour, drink
+
+
+
+
+class chai:
+   def __init__(self, sweetness, milk_level):
+         self.sweetness = sweetness
+         self.milk_level = milk_level
+     def sip(self):
+          print("sipping chai")
+     def add_sugar(self, amunt)
+           print("adding the sugar")
+
+         
+
 
