@@ -37,6 +37,12 @@ my_chai.add_sugar(3)
 
 
            
+Why python ?
+it is protable we can develop in windows,linux, mac
+it is readable
+it is productive
+it consist the pre build libraries - I'm using some other code in our code 
+multi use
 
          
 
