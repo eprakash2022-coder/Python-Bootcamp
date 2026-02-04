@@ -23,9 +23,6 @@ properties cup colour, chai sweetness
 
 methods actions -> stir,pour, drink
 
-
-
-
 class chai:
    def __init__(self, sweetness, milk_level):
          self.sweetness = sweetness
@@ -34,6 +31,12 @@ class chai:
           print("sipping chai")
      def add_sugar(self, amunt)
            print("adding the sugar")
+
+my_chai = chai(sweetness=3, milk_level=2)
+my_chai.add_sugar(3)
+
+
+           
 
          
 
