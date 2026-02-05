@@ -45,5 +45,8 @@ it consist the pre build libraries - I'm using some other code in our code
 multi use
 
          
+How create the venv
+python3 -m venv .venv
+.venv\Scripts\activate
 
 
