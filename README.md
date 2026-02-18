@@ -50,3 +50,13 @@ python3 -m venv .venv
 .venv\Scripts\activate
 
 
+chapter - 3: 
+black_tea_gram = 14
+ginger_grams = 3
+
+
+
+
+
+
+Chapter
